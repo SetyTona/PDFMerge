@@ -14,9 +14,3 @@ Los ficheros PDF a combinar, deberán estar en una misma carpeta o ubicación in
 ```
 python jrMergePDF.py
 ```
-
-## Imagen
-
-![Na1_PDFs][img1]
-
-[img1] 'https://drive.google.com/file/d/1tns7Dh5_mXr3Qhx3UdtQjzpQtbLxwMNP/view?usp=sharing' 
